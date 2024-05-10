@@ -1,0 +1,2 @@
+Program to display scrolling text on a terminal. Change direction using wasd keys.
+Compile using g++ text-scroll.cpp -lncurses
